@@ -1,0 +1,3 @@
+[submudule "themes/hugo-hero-theme"]
+  path=themes/hugo-hero-themes
+  url="https://github.com/zerostaticthemes/hugo-hero-theme.git"
