@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Defiant - Empowering Businesses with Innovative dApps, Full-Stack Web and Mobile Applications, and Fortified Cybersecurity Solutions</title>
-    <link>https://www.thedefiant.in/pages/</link>
+    <link>https://defiantwebsite.netlify.app/pages/</link>
     <description>Recent content in Pages on Defiant - Empowering Businesses with Innovative dApps, Full-Stack Web and Mobile Applications, and Fortified Cybersecurity Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="https://www.thedefiant.in/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="https://defiantwebsite.netlify.app/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://www.thedefiant.in/about/</link>
+      <link>https://defiantwebsite.netlify.app/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://www.thedefiant.in/about/</guid>
+      <guid>https://defiantwebsite.netlify.app/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.thedefiant.in/history/</link>
+      <link>https://defiantwebsite.netlify.app/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thedefiant.in/history/</guid>
+      <guid>https://defiantwebsite.netlify.app/history/</guid>
       <description></description>
     </item>
     

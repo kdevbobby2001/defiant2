@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Defiant - Empowering Businesses with Innovative dApps, Full-Stack Web and Mobile Applications, and Fortified Cybersecurity Solutions</title>
-    <link>https://www.thedefiant.in/contact/</link>
+    <link>https://defiantwebsite.netlify.app/contact/</link>
     <description>Recent content in Contact on Defiant - Empowering Businesses with Innovative dApps, Full-Stack Web and Mobile Applications, and Fortified Cybersecurity Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate><atom:link href="https://www.thedefiant.in/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate><atom:link href="https://defiantwebsite.netlify.app/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

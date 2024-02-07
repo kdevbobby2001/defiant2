@@ -1,4 +1,4 @@
-baseURL = "https://www.thedefiant.in/"
+baseURL = "https://defiantwebsite.netlify.app/"
 languageCode = "en-us"
 title = "Defiant - Empowering Businesses with Innovative dApps, Full-Stack Web and Mobile Applications, and Fortified Cybersecurity Solutions"
 description = "Defiant is a leading technology solutions provider, specializing in blockchain development, decentralized applications (dApps), full-stack web applications, and robust cybersecurity services. Our expert team offers customized dApp solutions, smart contract development, UI/UX design, frontend and backend development, and thorough security audits. We excel in vulnerability assessment, penetration testing, web application security testing, network security testing, mobile application security testing, and social engineering assessments. Collaborate with us to build secure, scalable, and innovative dApps, full-stack web applications, and mobile applications, and fortify your digital ecosystem with top-notch cybersecurity services."
